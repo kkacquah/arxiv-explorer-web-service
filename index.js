@@ -1,7 +1,6 @@
 'use strict';
 
 // Create a server with a host and port
-const qrDriver = require('./lib/frameworks_drivers/queryResolver/qrDriver');
 const createServer = require('./lib/frameworks_drivers/webserver/server');
 
 // Start the server
