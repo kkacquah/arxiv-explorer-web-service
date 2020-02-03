@@ -27,6 +27,7 @@
     "@hapi/yar": "^10.0.0",
     "airtable": "^0.8.1",
     "blipp": "^4.0.1",
+    "dotenv": "^8.2.0",
     "hapi": "^18.1.0",
     "hapi-swagger": "^10.3.0",
     "jsonwebtoken": "^8.5.1",
