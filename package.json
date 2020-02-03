@@ -25,6 +25,7 @@
     "@hapi/joi": "^16.1.8",
     "@hapi/vision": "^5.5.4",
     "@hapi/yar": "^10.0.0",
+    "airtable": "^0.8.1",
     "blipp": "^4.0.1",
     "hapi": "^18.1.0",
     "hapi-swagger": "^10.3.0",
