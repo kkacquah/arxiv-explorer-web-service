@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-clean-architecture-app",
+  "name": "ontology-web-service",
   "version": "1.0.0",
-  "description": "A simple API built with Node.js/Hapi.js that follows DDD + Clean Architecture principles",
+  "description": "An API built with Node.js/Hapi.js that follows DDD + Clean Architecture principles",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
@@ -9,11 +9,11 @@
     "test": "jest",
     "coverage": "jest --coverage"
   },
-  "author": "Jérémy Buget",
+  "author": "Kenneth Acquah",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbuget/nodejs-clean-architecture-app.git"
+    "url": "git+https://github.com/kkacquah/arxiv-explorer-web-service.git"
   },
   "dependencies": {
     "@hapi/boom": "^8.0.1",
@@ -66,5 +66,6 @@
   "keywords": [
     "heroku",
     "test"
-  ]
+  ],
+  "heroku-run-build-script": true
 }
