@@ -6,6 +6,8 @@ import HttpsRedirect from 'react-https-redirect'
 import theme from './theme';
 import App from './App';
 import Favicon from 'react-favicon';
+import 'react-app-polyfill/ie11';
+import 'react-app-polyfill/stable';
 
 //configure environment variables
 require('dotenv').config();

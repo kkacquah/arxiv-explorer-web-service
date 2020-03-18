@@ -52,6 +52,7 @@
     "node-fetch": "^2.6.0",
     "qs": "^6.9.1",
     "react": "latest",
+    "react-app-polyfill": "^1.0.6",
     "react-chartjs-2": "^2.8.0",
     "react-dom": "latest",
     "react-favicon": "0.0.17",
@@ -106,6 +107,7 @@
       "not op_mini all"
     ],
     "development": [
+      "ie 11",
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
