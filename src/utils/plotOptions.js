@@ -1,4 +1,4 @@
-const Joi = require('joi');
+const Joi = require('joi-browser');
 
 const RANGES = [
   '1991 - present',
